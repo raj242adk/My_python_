@@ -1,1 +1,1 @@
-print "Thhis is my python Hosting"
+print("Hello, World!")
